@@ -18,25 +18,25 @@ I'm a Computer Science Engineering student interested in **software development,
 
 ## 🚀 Projects
 
-### **[🏥 Smart Web-Based Hospital Management System](https://github.com/Vidhya12-v/Hospital_Management_System)**
+### 🏥 **[Smart Web-Based Hospital Management System](https://github.com/Vidhya12-v/Hospital_Management_System)**
 
 Hospital management application developed to digitalize and simplify hospital operations.
 
 **Tech:** `Java` `Spring Boot` `JSP` `MySQL` `Hibernate`
 
-### **[💳 Digital Banking Fraud Detection & Simulation Engine](https://github.com/Vidhya12-v/Fraud-Detection-System)**
+### 💳 **[Digital Banking Fraud Detection & Simulation Engine](https://github.com/Vidhya12-v/Fraud-Detection-System)**
 
 Machine learning-based application for identifying potentially fraudulent banking transactions.
 
 **Tech:** `Python` `Flask` `XGBoost` `SMOTE` `MySQL`
 
-### **[🌾 Krishi Sahayak – AI Farming Advisor](https://github.com/Vidhya12-v/AI-Farming-Advisor_Krishi-Sahayak)**
+### 🌾 **[Krishi Sahayak – AI Farming Advisor](https://github.com/Vidhya12-v/AI-Farming-Advisor_Krishi-Sahayak)**
 
 AI-powered web application providing agricultural guidance to farmers.
 
 **Tech:** `Python` `FastAPI` `React` `PostgreSQL` `Groq API`
 
-### **[💱 Java Currency Converter](https://github.com/Vidhya12-v/Currency_Converter_GUI)**
+### 💱 **[Java Currency Converter](https://github.com/Vidhya12-v/Currency_Converter_GUI)**
 
 Desktop application for currency conversion using Java Swing and an exchange-rate API.
 
